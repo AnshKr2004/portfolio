@@ -107,7 +107,7 @@ const Loader = () => {
         </g>
       </svg>
       <Text variants={textVariants} initial="hidden" animate="visible">
-        Hello | नमस्ते | Kon'nichiwa | Hola
+        Hello | नमस्ते | Kon&apos;nichiwa | Hola
       </Text>
     </Container>
   );
