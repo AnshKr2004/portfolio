@@ -21,8 +21,7 @@ const EmailSection = () => {
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
           👋🏼I will be glad to see you in my contacts.<br></br>
-          You can contact me here: olexaevtush@gmail.com<br></br>
-          Telegram: @OlexaEvtush<br></br>
+          You can contact me here: anshr795@gmail.com<br></br>
           ✨I&apos;m currently looking for new opportunities, my inbox is always open.<br></br>
           🤝I believe that I can become a valuable employee and help achieve the project&apos;s success.
         </p>
