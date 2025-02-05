@@ -13,7 +13,7 @@ const TAB_DATA = [
     id: "skills",
     icon: skillsIcon,
     content: (
-      <div className="grid grid-cols-3 sm:gap-x-4 md:gap-x-6 gap-x-8 md:justify-items-center sm:justify-items-center">
+      <div className="grid grid-cols-2 lg:grid-cols-3 sm:gap-x-4 md:gap-x-6 gap-x-8 md:justify-items-center sm:justify-items-center">
         <ul className="text-lg list-disc lg:pl-2">
           <li>JavaScript</li>
           <li>TypeScript</li>
